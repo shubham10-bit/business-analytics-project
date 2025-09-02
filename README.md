@@ -1,4 +1,3 @@
-# business-analytics-project
 
 # Business Analytics & Big Data Visualization
 
